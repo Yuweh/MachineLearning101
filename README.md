@@ -5,6 +5,49 @@ The name Machine learning was coined in 1959 by Arthur Samuel.
 
 Popular Languages for ML: Python / also available in Swift or iOS (Core ML)
 
+# What can machine learning do for you?
+Mobile phones and tablets are now powerful enough to take advantage of the awesome opportunities offered by machine learning and artificial intelligence.
+
+Here are some of the things your app can do with machine learning:
+
+COMPUTER VISION
+- detect objects, faces & landmarks on photos, videos, or live camera
+- recognize handwriting and printed text within images
+- search using pictures
+- track motion and poses
+- recognize gestures
+- understand emotional cues in photos and videos
+- enhance images and remove imperfections
+- automatically tag and categorize visual content
+- add special effects and filters
+- detect explicit content
+- create 3D models of interior spaces
+- augmented reality
+
+NATURAL LANGUAGE PROCESSING
+- extract meaning from text
+- chatbots and conversational UI
+- translate text into other languages
+- intelligent spelling correction
+- summarize texts
+- detect topics and sentiment
+
+SPEECH AND AUDIO
+- speech recognition and synthesis
+- translate speech in real-time
+- automatic subtitling of videos
+- recommend music based on your mood or surroundings
+- intelligently filtering audio
+- sound / music recognition
+- language or dialect detection
+- identify speakers by voice
+
+And much more… There’s no limit to what’s possible when you combine the raw power of deep learning with the phone’s camera and its many other sensors.
+
+Deep learning turns your mobile into a truly smart assistant.
+
+
+
 ## Table of contents
 
 - [Core ML](#core-ml)
